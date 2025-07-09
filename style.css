@@ -11,7 +11,7 @@ html,body{
     width:98%;
     aspect-ratio: 3/2;
     padding: 10% 10%;
-    margin: 50px auto;
+    margin: 50px 0;
     border-radius: 12px;
     box-shadow: 0 0 20px rgba(0,0,0,0.1);
     background-image: url("./71729.jpg");
